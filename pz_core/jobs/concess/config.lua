@@ -1,0 +1,1 @@
+pzCore.jobs["concess"] = {}
